@@ -4,7 +4,7 @@
 
 
 metadata {
-        definition (name: "Virtual Presence Plus", namespace: "ajpri", author: "Austin Pritchett") {
+        definition (name: "Simulated Presence Sensor Plus", namespace: "rohitlodha", author: "Austin Pritchett") {
         capability "Switch"
         capability "Refresh"
         capability "Presence Sensor"
